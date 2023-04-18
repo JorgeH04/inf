@@ -36,7 +36,7 @@ const Hero = () => {
                                     setQuery({ search: value });
                                     // navigate("/?search=" + value);  <FaSearch size={20} color="black" className={styles.searchButton} />
                                   }}
-                                   placeholder="Encuentre su película favorita"/>
+                                   placeholder="Find here your favorite movie"/>
                             </div>
                             <div class="select-form">
                               
